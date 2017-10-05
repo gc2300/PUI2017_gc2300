@@ -1,0 +1,1 @@
+I did assignment 3 on my own. I used python to get sample from 5 distributions with different sample sizes but the same population mean.
