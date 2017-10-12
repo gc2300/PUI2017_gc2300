@@ -1,4 +1,4 @@
-I did Assigment 1, 3 and 4 on my own. For Assignment 2, I worked with Fangshu Lin.
+I did Assigment 1, 3 and 4 on my own. For Assignment 2, I worked with Fangshu Lin. I wrote the reviews of the Chi-square test and the Logistic regression, while Fangshu wrote the review of multiple regression.
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
