@@ -1,0 +1,1 @@
+I did Homework 5 on my own.
