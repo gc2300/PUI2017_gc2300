@@ -4,7 +4,7 @@ Completed by Guobing Chen.
 ##### I plot NYC income map by zipcode.
 
 #
-The review first assesses the clarity of the plot, then analyzes the esthetic and honesty, finally a overall opinion will be given。 
+The review first assesses the clarity of the plot, then analyzes the esthetic and honesty, finally a overall opinion will be given. 
 #
 ### Clarity:
 The plot is a map visulazing the NYC adjusted gross income by zipcode in 2014. The map is not very clear. First, there is no legend or interactive visulization about the income and the name of each zipcode area. The income may be represented by the color of each zipcode area, however, how the color should be interpreted is not clear. It could be better if there is a legend showing the corresponding number of income to the color used for each zipcode area. Besides, there is no labels for x and y axes.
