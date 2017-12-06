@@ -13,9 +13,12 @@ The plot is a bar chart describing the number of trees by NYC borough in the yea
 #
 ### Esthtic:
 A bar chart was chosen to visualize the variation in the number of trees in year of 1995, 2005 and 2015, which is not appropriate. Bart chart is suitable for categorical data with no natural ordering of the categories. For each borough, there are data for three years, which are not three categories. It's better to use a scatter plot with time as the x axis with boroughs in different colors and the points of each borough being linked with a line to show the trend. The colors are properly chosen. The lines in the background help readers comparing the quantities. The graphical elements are properly used and there is nothing distracting.
-# FBB generally correct: the best graphical element for time series are line or scatter plots, with an exception: when the time series is very short, like in this case. In that case the sense of continuity that the line plot gives over a bar plot is lost, cause the time series is too short to generate the sense of evolution intuitively. In this case a bar plot is possibly better
+# FBB 
+generally correct: the best graphical element for time series are line or scatter plots, with an exception: when the time series is very short, like in this case. In that case the sense of continuity that the line plot gives over a bar plot is lost, cause the time series is too short to generate the sense of evolution intuitively. In this case a bar plot is possibly better
 # FBB the color as chosen give more emphasis to the more recent data. If this is the intention of the designer this is a good graphical choice. Otherwise a perceptually homogeneous color sequence should be chosen
 
+# FBB 
+why is the resolution of the plot so low?
 #
 ### Honesty:
 The proportionality of the plot's graphic elements is consistent, which guarantees the honesty of the plot.
